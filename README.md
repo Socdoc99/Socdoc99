@@ -1,74 +1,71 @@
 <h1 align="center">Hi, I'm Santiago 👋</h1>
-<h3 align="center">Systems Engineering Student | Web Developer | Structured Problem Solver</h3>
+<h3 align="center">DevOps & Automation Enthusiast | Systems Engineering Student</h3>
 
 ---
 
-## 🚀 About Me
+## ⚙️ About Me
 
-I'm a Systems Engineering student focused on building structured and scalable web applications.
+I'm a Systems Engineering student passionate about DevOps culture, automation, and infrastructure design.
 
-I enjoy designing systems from planning to implementation — including architecture design, database modeling, and clean code practices.
+I enjoy understanding how systems are built, deployed, automated, and monitored — not just coded.
 
-Currently developing academic and personal projects to strengthen my full-stack development skills.
+Currently focused on learning CI/CD pipelines, containerization, infrastructure as code, and cloud fundamentals.
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 DevOps Focus Areas
 
-### 💻 Languages
-- JavaScript
+- Continuous Integration & Continuous Deployment (CI/CD)
+- Docker & Containerization
+- Linux fundamentals
+- Git workflows
+- Infrastructure as Code (learning)
+- Monitoring & Observability concepts
+
+---
+
+## 🛠 Technical Stack
+
+### 💻 Programming
 - Python
-- SQL
-- HTML5
-- CSS3
+- JavaScript
+- Bash (learning)
 
-### ⚙️ Technologies & Tools
+### 🔧 DevOps Tools (Learning & Practicing)
 - Git & GitHub
-- Node.js
-- MySQL / PostgreSQL
-- REST APIs
-- VS Code
-- React (learning)
+- GitHub Actions
+- Docker
+- Linux CLI
+- Basic Cloud Concepts (AWS fundamentals)
 
 ---
 
-## 📂 Featured Project
+## 📂 Current Projects
 
-### 🎓 University Event Management Web Application
+### 🔄 CI/CD Pipeline Practice
+Designing and testing automated pipelines using GitHub Actions for web applications.
 
-A full web system that allows students to:
-- View university events
-- Register for events
-- Create and manage events (CRUD)
-- Validate capacity and avoid duplicate registrations
-
-Designed using structured project planning (WBS, Gantt) and database normalization principles.
+### 🐳 Containerized Web Application
+Building a simple web app and deploying it using Docker containers.
 
 ---
 
 ## 📈 Currently Learning
 
-- Backend architecture design
-- API security fundamentals
-- Clean Code & SOLID principles
-- Software project management
-- Cloud & DevOps
+- CI/CD pipeline design
+- Docker networking & volumes
+- Infrastructure as Code (Terraform basics)
+- Cloud deployment strategies
+- DevOps best practices
 
 ---
 
 ## 🎯 2026 Goals
 
-- Build 5 complete full-stack applications
-- Contribute to open source projects
-- Strengthen backend development skills
-- Start professional software development career
-
----
-
-## 📫 Connect With Me
-
-- LinkedIn: (www.linkedin.com/in/santiago-ospina-calle-37b059210)
-- Email: (santiago9902@gmail.com)
+- Deploy 3 fully containerized projects
+- Build automated CI/CD pipelines
+- Learn Terraform fundamentals
+- Prepare for a Junior DevOps role
 
 ---
 
