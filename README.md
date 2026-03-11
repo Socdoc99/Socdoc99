@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Santiago 👋</h1>
-<h3 align="center">DevOps & Automation Enthusiast | Systems Engineering Student</h3>
+<h3 align="center">DevOps & Automation Enthusiast | Software Development student</h3>
 
 ---
 
