@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    AndroidManifest.xml — Registro central de la aplicación Android.
+
+    CONCEPTO: AndroidManifest.xml
+    Todo lo que Android necesita saber sobre tu app se declara aquí:
+    - El nombre del paquete (applicationId)
+    - Las Activities (pantallas) que tiene la app
+    - Los permisos que solicita (Internet, cámara, etc.)
+    - El ícono, el tema y la configuración general
+
+    CONCEPTO: android:exported="true"
+    La Activity principal DEBE tener exported=true para que el sistema
+    Android pueda lanzarla desde el menú de apps y desde un intent externo.
+
+    CONCEPTO: intent-filter con MAIN + LAUNCHER
+    Este bloque convierte la Activity en el punto de entrada de la app.
+    Sin esto, el ícono no aparecería en el launcher del dispositivo.
+-->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Calculadora">
+
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:windowSoftInputMode="adjustResize">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+    </application>
+
+</manifest>
