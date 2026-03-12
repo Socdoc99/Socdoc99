@@ -1,15 +1,17 @@
-<h1 align="center">Hi, I'm Santiago 👋</h1>
-<h3 align="center">DevOps & Automation Enthusiast | Software Development student</h3>
+<h1 align="center">Hi 👋 I'm Santiago Ospina Calle</h1>
+<h3 align="center">Software Development Technologist in training | DevOps & Cloud Enthusiast</h3>
 
 ---
 
 ## ⚙️ About Me
 
-I'm a Systems Engineering student passionate about DevOps culture, automation, and infrastructure design.
+Interested in how modern systems are built, deployed and automated. Currently learning Docker, CI/CD pipelines, cloud fundamentals and backend development.
 
-I enjoy understanding how systems are built, deployed, automated, and monitored — not just coded.
+📍 Pereira, Colombia
+📧 santiago9902@gmail.com
 
-Currently focused on learning CI/CD pipelines, containerization, infrastructure as code, and cloud fundamentals.
+⚙️ Working with Python, JavaScript, Docker and Git
+🤝 Open to collaboration on DevOps and backend projects
 
 ---
 
@@ -52,7 +54,7 @@ Building a simple web app and deploying it using Docker containers.
 
 ## 📈 Currently Learning
 
-- CI/CD pipeline design
+- Python bases
 - Docker networking & volumes
 - Infrastructure as Code (Terraform basics)
 - Cloud deployment strategies
