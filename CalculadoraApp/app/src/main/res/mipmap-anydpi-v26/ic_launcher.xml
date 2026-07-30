@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    ic_launcher.xml — Ícono adaptativo de la app (API 26+)
+    CONCEPTO: Adaptive Icons
+    Desde Android 8 (API 26), los íconos de app son "adaptativos":
+    se componen de dos capas (fondo + primer plano) para que el launcher
+    del dispositivo pueda aplicarles diferentes formas (círculo, squircle, etc.)
+-->
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <background android:drawable="@drawable/ic_launcher_background" />
+    <foreground android:drawable="@drawable/ic_launcher_foreground" />
+</adaptive-icon>

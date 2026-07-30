@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="btn_clear">AC</string>
+    <string name="btn_clear_entry">C</string>
+    <string name="btn_sign">+/-</string>
+    <string name="btn_percent">%</string>
+    <string name="btn_divide">÷</string>
+    <string name="btn_multiply">×</string>
+    <string name="btn_subtract">−</string>
+    <string name="btn_add">+</string>
+    <string name="btn_equals">=</string>
+    <string name="btn_decimal">.</string>
+</resources>

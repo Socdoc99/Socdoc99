@@ -1,0 +1,12 @@
+<!--
+    themes.xml — Tema de la aplicación
+    ─────────────────────────────────────────────────────────────────────────────
+    CONCEPTO: Tema de Activity vs Tema de Compose
+    El tema XML aquí definido se aplica a nivel de Activity (sistema Android).
+    Su única responsabilidad es eliminar la ActionBar (barra de título nativa).
+    El diseño visual completo (colores, tipografía) se gestiona en Compose
+    a través del CalculadoraTheme definido en Theme.kt.
+-->
+<resources>
+    <style name="Theme.Calculadora" parent="android:Theme.Material.NoActionBar" />
+</resources>
