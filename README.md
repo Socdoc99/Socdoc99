@@ -4,7 +4,7 @@
 
 📍 Pereira, Risaralda, Colombia
 ✉️ santiago9902@gmail.com
-💼 [LinkedIn](https://www.linkedin.com/in/santiago-ospina-calle-37b059210) · 💻 [GitHub](https://github.com/Socdoc99)
+💼 [LinkedIn](https://www.linkedin.com/in/santiago-ospina-calle-37b059210) · 💻 [GitHub](https://github.com/Socdoc99) · 🌐 [Portafolio](https://socdoc.tech)
 
 ---
 
